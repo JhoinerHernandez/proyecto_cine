@@ -381,8 +381,8 @@ export default function MoviesPage() {
                 <Label htmlFor="poster_url">URL del Poster</Label>
                 <Input
                   id="poster_url"
-                  type="url"
-                  placeholder="https://..."
+                  type="text"
+                  placeholder="/imagen.jpeg o https://..."
                   value={formData.poster_url}
                   onChange={(e) => setFormData({ ...formData, poster_url: e.target.value })}
                 />
