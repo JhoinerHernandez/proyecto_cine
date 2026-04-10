@@ -73,7 +73,7 @@ const moviesData: Movie[] = [
     genre: 'Accion',
     duration: 105,
     synopsis: 'Mas recargados que nunca. Los chamos regresan con todo en la tercera entrega de la saga mas epica del verano venezolano.',
-    poster_url: '/La venganza de los chamos 3.jpeg',
+    poster_url: '/la-venganza-chamos-3.jpeg',
     rating: 'PG-13',
     release_date: '2024-12-01',
     director: 'Memes Venezolanos',
